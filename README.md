@@ -27,7 +27,8 @@ To complete Part I, fulfill the following requirements:
 * CSS file
 * JS file
 * data.js file
-3. Link all of your files correctly.
+4. link the `data.js` file with `<script>` tag above your `app.js` file
+5. Link all of your files correctly.
 
 ### Part II Create Data
 
@@ -51,12 +52,7 @@ To complete Part II, fulfill the following requirements:
   ]
   ```
 2. Create 6 different music genres of your choice, with 6 different songs/artist in each genre
-3. All your data should be saved in `data.js` file
-
-
-### Part III HTML
-
-1. link the `data.js` file with `<script>` tag above your `app.js` file
+3. All your data should be saved in `data.js` file 
 
 ### Part IV JS
 
