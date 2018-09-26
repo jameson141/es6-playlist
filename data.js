@@ -15,13 +15,13 @@ const data = [
     {
         genre: "rock",
         artist: "Pink Floyd",
-        song: "Comfortably Numb",
+        song: "Money",
         image: "https://upload.wikimedia.org/wikipedia/fi/thumb/d/d1/PinkFloydDarkSideoftheMoon.jpg/260px-PinkFloydDarkSideoftheMoon.jpg"
     },
     {
         genre: "rock",
         artist: "The Rolling Stones",
-        song: "I Can't Get No Satisfaction",
+        song: "Brown Sugar",
         image: "https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/Br4AAOSw241YjMAm/$_1.JPG?set_id=8800005007"
     },
     {

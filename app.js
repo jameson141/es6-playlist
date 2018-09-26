@@ -1,10 +1,11 @@
-function rock () {
+function rockSection () {
 const filterRock =data.filter(song=>{
     
     return song.genre === "rock"
 })
-console.log('filterRock', filterRock);
-map(function (genre){
+
+.map((songs) => {
+    console.log('rock', song);
     return
     `
     <div class = "rockCategory">
@@ -15,14 +16,18 @@ map(function (genre){
     </div>
     `
 })
+
+
+   
 }
 
-function best () {
+function bestSection () {
 const filterBest =data.filter(song=>{
     return song.genre === "best"
 })  
-console.log('filterBest', filterBest);
-map(function (genre){
+
+.map((songs) => {
+    console.log('best', musical);
     return
     `
     <div class = "bestCategory">
@@ -33,6 +38,8 @@ map(function (genre){
     </div>
     `
 })
+   
+
 }
 
 
