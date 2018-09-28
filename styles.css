@@ -20,9 +20,15 @@
 }
 
 .Containers {
-    width: em;
-    height: 30em;
+    width: 15em;
+    height: 20em;
     border: 1px solid black;
     text-align: center;
     margin: 0 0 0 2%;
+}
+
+.Containers > img {
+    width: 12em;
+    height: 12em;
+    border-radius: 100%;
 }
